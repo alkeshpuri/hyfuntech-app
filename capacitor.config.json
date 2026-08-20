@@ -1,0 +1,13 @@
+{
+  "appId": "com.hyfuntech.invoice",
+  "appName": "Hyfuntech Invoice",
+  "webDir": "www",
+  "server": {
+    "url": "https://invoice.hyfuntech.com",
+    "cleartext": false,
+    "androidScheme": "https"
+  },
+  "android": {
+    "allowMixedContent": false
+  }
+}
