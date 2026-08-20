@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Hyfuntech Invoice</string>
+    <string name="title_activity_main">Hyfuntech Invoice</string>
+    <string name="package_name">com.hyfuntech.invoice</string>
+    <string name="custom_url_scheme">com.hyfuntech.invoice</string>
+</resources>
